@@ -27,7 +27,17 @@ alt="header"/>
     alt="paython">
     &nbsp;&nbsp;&nbsp;&nbsp;
 <img
-    src="https://www.svgrepo.com/show/303110/apple-black-logo.svg"
+    src="https://www.svgrepo.com/show/448236/linux.svg"
+    width="60px"
+    alt="paython">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+<img
+    src="https://www.svgrepo.com/show/330767/kalilinux.svg"
+    width="60px"
+    alt="paython">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+<img
+    src="https://www.svgrepo.com/show/354271/redhat.svg"
     width="60px"
     alt="paython">
     &nbsp;&nbsp;&nbsp;&nbsp;
