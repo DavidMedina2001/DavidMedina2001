@@ -265,14 +265,14 @@ https://microsoftware.medivald.com
 
 <div align="center">
   </br>
-  <a href="https://www.linkedin.com/in/edvardasjusius/">
+  <a href="https://www.linkedin.com/in/david-medina-90028b2b6">
     <img
       src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"
       alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/e2.edas/">
     <img
-      src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"
+      src="https://www.instagram.com/darwindavidmedinacaicedo/"
       alt="LinkedIn">
   </a>
   <a href="https://stackoverflow.com/users/5272951/dumbo">
