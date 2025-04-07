@@ -58,7 +58,7 @@ https://microsoftware.medivald.com
     &nbsp;&nbsp;&nbsp;&nbsp;  
 <img
     src="https://polmed.ac.id/wp-content/uploads/2024/01/MikroTik-Logo.png"
-    width="60px"
+    width="100px"
     alt="mikrotik">
     &nbsp;&nbsp;&nbsp;&nbsp;
  
