@@ -72,11 +72,6 @@ alt="header"/>
     alt="Apache Kafka">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain-wordmark.svg"
-    width="60px"
-    alt="Gradle">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
     src="https://logodix.com/logo/699172.png"
     width="60px"
     alt="Maven">
