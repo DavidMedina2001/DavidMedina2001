@@ -104,12 +104,7 @@ alt="header"/>
     width="60px"
     alt="Bootstrap">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg"
-    width="60px"
-    alt="Karma">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  
+    
   <!-- Storages -->
   </br>
   <h3>Storages</h3>
