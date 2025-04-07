@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="(https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ing.%20%20David%20%20Medina%20%20C&fontAlignY=35&section=header)"
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ing.%20%20David%20%20Medina%20%20C&fontAlignY=35&section=header"
   alt="header"/>
 </div>
 
