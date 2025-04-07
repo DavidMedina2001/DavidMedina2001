@@ -11,12 +11,12 @@ alt="header"/>
 
 <!-- STACK -->
 <div align="center" width="100">
-  <h1>web</h1>
-https://microsoftware.medivald.com
-
-<!-- STACK -->
-<div align="center" width="100">
   <h1>Stack</h1>
+  
+<!-- Web page -->
+  <div align="center" width="100">
+  <h3>Web Page</h3>
+https://microsoftware.medivald.com
 
   <!--Operating systems -->
 <div align="center" width="100">
