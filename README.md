@@ -9,9 +9,16 @@
 alt="header"/>
 </div>
 
+<!--Operating systems -->
+<div align="center" width="100">
+<h1>Operating systems</h1>
+
+
+
+
 <!-- STACK -->
 <div align="center" width="100">
-  <h1>Stack</h1>
+  <h2>Stack</h2>
   
   <!-- Languages -->
   </br>
