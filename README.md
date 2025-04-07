@@ -266,6 +266,6 @@ USED:
 
 ------
 
-Credit: [Dum6o](https://github.com/DavidMedina2001)
+Credit: [DavidMedina2001](https://github.com/DavidMedina2001)
 
 Last Edited on: 04/04/2022
