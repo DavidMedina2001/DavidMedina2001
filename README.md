@@ -16,6 +16,12 @@ alt="header"/>
   <!-- Languages -->
   </br>
   <h3>Languages</h3>
+ 
+  <img
+    src="https://www.python.org/static/img/python-logo.png"
+    width="60px"
+    alt="paython">
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
     width="60px"
