@@ -9,16 +9,22 @@
 alt="header"/>
 </div>
 
-<!--Operating systems -->
-<div align="center" width="100">
-<h1>Operating systems</h1>
-
-
-
-
 <!-- STACK -->
 <div align="center" width="100">
-  <h2>Stack</h2>
+  <h1>Stack</h1>
+
+  <!--Operating systems -->
+<div align="center" width="100">
+<h3>Operating systems</h3>
+<img
+    src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg"
+    width="60px"
+    alt="paython">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
   
   <!-- Languages -->
   </br>
