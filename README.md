@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://www.facebook.com/photo/?fbid=10231789139620367&set=a.2840410738310(Dum6o)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img src="(https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ing.%20%20David%20%20Medina%20%20C&fontAlignY=35&section=header)"
   alt="header"/>
 </div>
 
