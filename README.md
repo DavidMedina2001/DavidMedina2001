@@ -33,7 +33,7 @@ alt="header"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
 <img
     src="https://www.svgrepo.com/show/330767/kalilinux.svg"
-    width="60px"
+    width="100px"
     alt="paython">
     &nbsp;&nbsp;&nbsp;&nbsp;
 <img
