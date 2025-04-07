@@ -105,11 +105,6 @@ alt="header"/>
     alt="Bootstrap">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
-    width="60px"
-    alt="Jasmine">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-plain-wordmark.svg"
     width="60px"
     alt="Jasmine">
