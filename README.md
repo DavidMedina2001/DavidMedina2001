@@ -43,17 +43,17 @@ https://microsoftware.medivald.com
     &nbsp;&nbsp;&nbsp;&nbsp;
 <img
     src="https://www.svgrepo.com/show/354271/redhat.svg"
-    width="100px"
+    width="60px"
     alt="redhat">
     &nbsp;&nbsp;&nbsp;&nbsp;
 <img
     src="https://www.svgrepo.com/show/349333/debian.svg"
-    width="100px"
+    width="60px"
     alt="debian">
     &nbsp;&nbsp;&nbsp;&nbsp;
 <img
     src="https://www.svgrepo.com/show/354481/ubuntu.svg"
-    width="100px"
+    width="60px"
     alt="ubuntu">
     &nbsp;&nbsp;&nbsp;&nbsp;  
 
