@@ -38,7 +38,7 @@ alt="header"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
 <img
     src="https://www.svgrepo.com/show/354271/redhat.svg"
-    width="60px"
+    width="100px"
     alt="paython">
     &nbsp;&nbsp;&nbsp;&nbsp;
 
