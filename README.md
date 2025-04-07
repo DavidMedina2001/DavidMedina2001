@@ -18,7 +18,7 @@ alt="header"/>
   <h3>Languages</h3>
  
   <img
-    src="https://www.python.org/static/img/python-logo.png"
+    src="https://www.python.org/static/img/python-logo.svg"
     width="60px"
     alt="paython">
     &nbsp;&nbsp;&nbsp;&nbsp;
