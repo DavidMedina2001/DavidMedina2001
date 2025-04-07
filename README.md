@@ -21,7 +21,16 @@ alt="header"/>
     width="60px"
     alt="paython">
     &nbsp;&nbsp;&nbsp;&nbsp;
-
+<img
+    src="https://www.svgrepo.com/show/303110/apple-black-logo.svg"
+    width="60px"
+    alt="paython">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+<img
+    src="https://www.svgrepo.com/show/303110/apple-black-logo.svg"
+    width="60px"
+    alt="paython">
+    &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
@@ -266,7 +275,7 @@ alt="header"/>
 <!--
 USED:
 1. Markdown: https://github.github.com/gfm/
-2. Icons: https://github.com/devicons/devicon/tree/v2.14.0/icons
+2. Icons: https://github.com/devicons/devicon/tree/v2.14.0/icons  https://www.svgrepo.com
 3. Header/Footer: https://github.com/kyechan99/capsule-render
 4. GitHub streak: https://github-readme-streak-stats.herokuapp.com/demo/
 5. GitHub trophy: https://github.com/ryo-ma/github-profile-trophy
