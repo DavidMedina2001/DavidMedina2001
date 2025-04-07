@@ -56,7 +56,11 @@ https://microsoftware.medivald.com
     width="60px"
     alt="ubuntu">
     &nbsp;&nbsp;&nbsp;&nbsp;  
-
+<img
+    src="https://polmed.ac.id/wp-content/uploads/2024/01/MikroTik-Logo.png"
+    width="60px"
+    alt="mikrotik">
+    &nbsp;&nbsp;&nbsp;&nbsp;
  
   <!-- Languages -->
   </br>
