@@ -24,30 +24,40 @@ https://microsoftware.medivald.com
 <img
     src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg"
     width="60px"
-    alt="paython">
+    alt="windows">
     &nbsp;&nbsp;&nbsp;&nbsp;
 <img
     src="https://www.svgrepo.com/show/303110/apple-black-logo.svg"
     width="60px"
-    alt="paython">
+    alt="apple">
     &nbsp;&nbsp;&nbsp;&nbsp;
 <img
     src="https://www.svgrepo.com/show/448236/linux.svg"
     width="60px"
-    alt="paython">
+    alt="linux">
     &nbsp;&nbsp;&nbsp;&nbsp;
 <img
     src="https://www.svgrepo.com/show/330767/kalilinux.svg"
     width="100px"
-    alt="paython">
+    alt="kalilinux">
     &nbsp;&nbsp;&nbsp;&nbsp;
 <img
     src="https://www.svgrepo.com/show/354271/redhat.svg"
     width="100px"
-    alt="paython">
+    alt="redhat">
     &nbsp;&nbsp;&nbsp;&nbsp;
+<img
+    src="https://www.svgrepo.com/show/349333/debian.svg"
+    width="100px"
+    alt="debian">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+<img
+    src="https://www.svgrepo.com/show/354481/ubuntu.svg"
+    width="100px"
+    alt="ubuntu">
+    &nbsp;&nbsp;&nbsp;&nbsp;  
 
-  
+ 
   <!-- Languages -->
   </br>
   <h3>Languages</h3>
