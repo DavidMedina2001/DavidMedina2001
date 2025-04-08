@@ -229,7 +229,6 @@
 
 </br>
 </br>
-</br>
 
 <!-- STATS -->
 <div align="center" width="100">
