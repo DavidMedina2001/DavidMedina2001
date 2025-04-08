@@ -8,11 +8,6 @@
 <div align="center" width="100">
   <h1>Stack</h1>
   
-<!-- Web page -->
-  <div align="center" width="100">
-  <h3>Web Page</h3>
-https://microsoftware.medivald.com
-
   <!--Operating systems -->
 <div align="center" width="100">
 <h3>Operating systems</h3>
