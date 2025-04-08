@@ -238,18 +238,18 @@
       alt="DavidMedina2001 GitHub Streak">
   </br>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Dum6o&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=71A5FD&icon_color=71A5FD&text_color=71A5FD&bg_color=ffffff&hide=stars"
-    alt="Dum6o GitHub Stats">
+    src="https://github-readme-stats.vercel.app/api?username=DavidMedina2001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=71A5FD&icon_color=71A5FD&text_color=71A5FD&bg_color=ffffff&hide=stars"
+    alt="DavidMedina2001 GitHub Stats">
   
-  <a href="https://stackoverflow.com/users/5272951/dumbo">
+  <a href="https://stackoverflow.com/users/5272951/DavidMedina2001">
       <img
         src="https://stackoverflow-card.vercel.app/?userID=5272951&theme=stackoverflow-light"
-        alt="Dumbo StackOverflow">
+        alt="DavidMedina2001 StackOverflow">
   </a>
   </br>
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Dum6o&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
-    alt="Dum6o GitHub Awards">
+    src="https://github-profile-trophy.vercel.app/?username=DavidMedina2001&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
+    alt="DavidMedina2001 GitHub Awards">
 </div>
 
 
